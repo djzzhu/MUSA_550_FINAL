@@ -1,6 +1,6 @@
 ---
 title: "Compare ridership by hours, day, month(Pre and Post Covid)."
-date: 2019-04-17
+date: 2020-12-21
 published: true
 tags: [dataviz, matplotlib]
 excerpt: "Compare ridership by hours, day, month(Pre and Post Covid)."
