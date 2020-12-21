@@ -62,4 +62,3 @@ PostCovid ridership by station
 <div id="altair-chart-2"></div>
 
 
-**Important: When embedding charts, you will likely need to adjust the width/height of the charts before embedding them in the page so they fit nicely when embedded.**
