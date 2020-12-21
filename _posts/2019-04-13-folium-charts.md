@@ -25,4 +25,13 @@ Another map showing the hot spot for bike stations. It can help the government t
 
 <div id="folium-chart-2"></div>
 
+# Conclusion
 
+1. After Covid, ridership during weekend are increasing, weekdays ridership decreased
+2. the total ridership decrease in 2020. After Covid, October has the ridership peak. 
+3. After Covid, rush hour ridership decreases. Ridership between 10am -16pm increases
+4. Downtown and financial district have the higest density of bike station. They also have the highest ridership pre Covid
+5. After Covid, people are more willing to explore open spaces. Stations near parks are becomimg more popular.
+6. Bike stations have high usage when near the subway,train, ferry stations 
+7. Half of the census tracts are still lack of bike stations. Most of them are in west, central, south of San Francisco. These places are in high demand. 
+8. People are taking longer duration for biking after Covid.
