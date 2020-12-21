@@ -1,6 +1,6 @@
 ---
 title: "Covid-19 Bike ridership in San Francisco!"
-date: 2020-12-21T15:34:30-04:00
+date: 2020-12-21 T15:34:30-04:00
 categories:
   - blog
 tags:
