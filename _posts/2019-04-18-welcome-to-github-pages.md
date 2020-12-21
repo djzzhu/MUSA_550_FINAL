@@ -1,6 +1,6 @@
 ---
-title: "Welcome to GitHub Pages!"
-date: 2019-04-18T15:34:30-04:00
+title: "Covid-19 Bike ridership in San Francisco!"
+date: 2020-12-20T15:34:30-04:00
 categories:
   - blog
 tags:
@@ -25,10 +25,5 @@ The project will conduct a research of bikeshare data in Bay Area. The dataset w
 • Use Openstreetmap, Download data of commercial and resident places. Is there any relationship between bikeshare with these places? Post-Covid?
 
 • A web visualization will be shown in the end. 
-```
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]: https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
