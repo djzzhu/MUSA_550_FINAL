@@ -8,21 +8,15 @@ tags:
   - update
 ---
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and commit your changes to to the repository. GitHub will automatically rebuild your site. Wait a few minutes and then refresh the site link to see the new changes. There are three main ways to make changes to your site:
-
-- Edit files within your in the browser at GitHub.com
-- Use a third party GitHub content editor, like [Prose by Development Seed](https://prose.io).
-- Clone down your repository and make updates locally, then push them to your GitHub repository.
-
-**To add new posts:** Add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-```python
-def print_message(message):
-  print(message)
-
-print_message("Welcome to GitHub Pages")
+The project will conduct a research of bikeshare data in Bay Area. The dataset will cover the past few years to the current year. This research will find out how COVID-19 affected bikeshare in Bay Area. In this project, l will compare pre-COVID data with Post-COVID data.The entire dataset will surpass 1,000,000 rows. The dataset includes start point, end point, duration, time, and start and end station. A few steps that l propose below:
+• Download the dataset, merge these data and slice some outliers.
+• Map out the start and end points. Find out the duration distribution of these points.
+• Groupby station, find out which stations are more popular or less popular. A heat map or clustering analysis could help us to visualize these data.
+• Map out these data based on the census tract in Bay area. Find out which census tract is more welcome?
+• Do the same steps for Post-Covid. Is there any change between pre-Covid and postCovid? Do people change their destinations? How does Covid affect the ridership?
+• What is the difference between each day, week or month? 
+• Use Openstreetmap, Download data of commercial and resident places. Is there any relationship between bikeshare with these places? Post-Covid?
+• A web visualization will be shown in the end. 
 ```
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll.
