@@ -1,12 +1,12 @@
 ---
-title: "Example: Embedding Folium charts"
+title: "Bike Station Spatial Distribution"
 date: 2019-04-13
 published: true
 tags: [dataviz, folium]
-excerpt: "Embedding interactive Folium charts on static pages using Jekyll."
+excerpt: "Bike Station Spatial Distribution."
 folium-loader:
-  folium-chart-1: ["charts/foliumChart.html", "400"] # second argument is the height
-  folium-chart-2: ["charts/percent_no_internet.html", "400"] # second argument is the height
+  folium-chart-1: ["charts/bikestation_street.html", "400"] # second argument is the height
+  folium-chart-2: ["charts/bikestation_heat.html", "400"] # second argument is the height
 toc: true
 toc_sticky: true
 ---
