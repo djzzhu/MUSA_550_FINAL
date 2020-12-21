@@ -1,6 +1,6 @@
 ---
 title: "Bike Station Spatial Distribution"
-date: 2019-04-13
+date: 2020-12-20
 published: true
 tags: [dataviz, folium]
 excerpt: "Bike Station Spatial Distribution."
