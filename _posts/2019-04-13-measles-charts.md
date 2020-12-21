@@ -3,7 +3,7 @@ title: "Spatial Analysis of ridership by Census Tracts and Stations"
 date: 2020-12-21
 published: true
 tags: [dataviz, altair, hvplot, holoviews]
-excerpt: "Embedding interactive charts on static pages using Jekyll."
+excerpt: "Spatial Analysis of ridership by Census Tracts and Stations"
 altair-loader:
   altair-chart-1: "charts/Top10_Ridership_pre.json"
   altair-chart-2: "charts/Top10_Ridership_post.json"
@@ -22,9 +22,6 @@ This post will show examples of embedding interactive charts produced using [Alt
 
 Below is a chart of the incidence of measles since 1928 for the 50 US states.
 
-<div id="altair-chart-1"></div>
-<div id="altair-chart-2"></div>
-
 This was produced using Altair and embedded in this static web page. Note that you can also display Python code on this page:
 
 
@@ -37,9 +34,14 @@ Lastly, the measles incidence produced using the HvPlot package:
 <div id="hv-chart-3"></div>
 <div id="hv-chart-4"></div>
 
-
+PreCovid ridership by station
 ![PreCovid ridership by station]({{ site.url }}{{ site.baseurl }}/assets/images/PreCovid ridership by station.png)
+
+PostCovid ridership by station
 ![PostCovid ridership by station]({{ site.url }}{{ site.baseurl }}/assets/images/PostCovid ridership by station.png)
+
+<div id="altair-chart-1"></div>
+<div id="altair-chart-2"></div>
 
 
 **Important: When embedding charts, you will likely need to adjust the width/height of the charts before embedding them in the page so they fit nicely when embedded.**
