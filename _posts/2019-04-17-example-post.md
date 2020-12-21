@@ -24,8 +24,8 @@ This is an example post. The posts are written in markdown.
 
 Below, we show the distance between residential sales and the average distance to the 5 nearest 311 calls for abandoned cars.
 
-![distances-abandoned-cars]({{ site.url }}{{ site.baseurl }}/assets/images/PreLockdown Ridership_ dayofweek.png)
-![distances-abandoned-cars]({{ site.url }}{{ site.baseurl }}/assets/images/PostLockdown Ridership_ dayofweek.png)
+![PreLockdown Ridership_ dayofweek]({{ site.url }}{{ site.baseurl }}/assets/images/PreLockdown Ridership_ dayofweek.png)
+![PostLockdown Ridership_ dayofweek]({{ site.url }}{{ site.baseurl }}/assets/images/PostLockdown Ridership_ dayofweek.png)
 
 # Section 2
 <div id="altair-chart-3"></div>
