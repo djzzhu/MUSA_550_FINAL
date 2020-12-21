@@ -23,7 +23,7 @@ Here we find out that before Covid, workdays,especially Tuesday and Thursday, ha
 ![PreLockdown Ridership_ dayofweek]({{ site.url }}{{ site.baseurl }}/assets/images/PreLockdown Ridership_ dayofweek.png)
 ![PostLockdown Ridership_ dayofweek]({{ site.url }}{{ site.baseurl }}/assets/images/PostLockdown Ridership_ dayofweek.png)
 
-## Compare ridership by Hours
+# Compare ridership by Hours
 
 The original datasets have starting time that includes the hours. We slice this data and assign a specific category to these hours. 
      1. Daytime 10am -16pm
