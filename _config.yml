@@ -16,7 +16,7 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale: "en-US"
-title: "MUSA 550: Geospatial Data Science in Python"
+title: "Covid-19 Bike ridership in San Francisco"
 title_separator: "-"
 name: "Jiazheng Zhu"
 description: "Pre & Post Covid Bike Ridership Comparison"
