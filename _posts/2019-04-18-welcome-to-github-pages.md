@@ -8,7 +8,7 @@ tags:
   - update
 ---
 
-The project will conduct a research of bikeshare data in Bay Area. The dataset will cover the past few years to the current year. This research will find out how COVID-19 affected bikeshare in Bay Area. In this project, l will compare pre-COVID data with Post-COVID data.The entire dataset will surpass 1,000,000 rows. The dataset includes start point, end point, duration, time, and start and end station. A few steps that l propose below:
+The project will conduct a research of bikeshare data in Bay Area. The dataset will cover the past few years to the current year. This research will find out how COVID-19 affected bikeshare in Bay Area. In this project, l will compare pre-COVID data with Post-COVID data.The entire dataset will surpass 1,000,000 rows. The dataset includes start point, end point, duration, time, and start and end station. The following steps will be conducted:
 
 • Download the dataset, merge these data and slice some outliers.
 
@@ -24,6 +24,6 @@ The project will conduct a research of bikeshare data in Bay Area. The dataset w
 
 • Use Openstreetmap, Download data of commercial and resident places. Is there any relationship between bikeshare with these places? Post-Covid?
 
-• A web visualization will be shown in the end. 
+• conclusion and recommendation 
 
 
